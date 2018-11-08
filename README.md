@@ -1,4 +1,4 @@
-# Project Title
+# Discord Attendance Bot
 
 An attendance bot for Discord! 
 
